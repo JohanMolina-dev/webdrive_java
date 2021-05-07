@@ -1,0 +1,29 @@
+
+7
+gradlew,5\b\5bbfa66edb4db3c7c33c5181f43510990d3307f9
+P
+ src/main/java/page/HomePage.java,6\0\60db83ade7e7329976bcd53e9c07677d0df2a9c2
+Z
+*src/main/java/page/AuthenticationPage.java,b\8\b82ef55dc15f8bd9db7b36d43eac47ab1f02cb47
+R
+"src/main/java/page/SecureArea.java,4\7\4771b2410394384c6dcb6aec072c9ad82e6b95bb
+?
+settings.gradle,0\5\05efc8b1657769a27696d478ded1e95f38737233
+P
+ src/test/java/base/BaseTest.java,b\7\b7db9501819294794071ed8490857b8ada13054d
+<
+build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
+S
+#src/test/java/login/LoginTests.java,a\6\a634ecbd07c15b5415c319bedbe46cae7cc5d495
+X
+(src/test/java/dropdown/DropdownTest.java,6\0\60cc4e9121057276b64e63552d027569afd30f5b
+P
+ src/main/java/page/DropDown.java,c\b\cb2611fad81316a6d4d63d1510a76617d1107bc6
+Q
+!src/main/java/page/HoverPage.java,7\1\7187b61ac583bfafc1cc4b428144d5b9d1b716e2
+S
+#src/test/java/hover/HoverTests.java,3\6\369d1db1532529800aea5d355a2d9a4532531588
+O
+src/main/java/page/KeyPage.java,c\a\ca9b1931455464b0b6bac385003b77c8be6dcbfb
+P
+ src/test/java/key/KeysTests.java,5\1\515f73b166f701c17b8af0f4b2ce928e4a7e7c3e
